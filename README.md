@@ -3,6 +3,10 @@
 ## environment pytorch17
 
 ## Modern Computer Vision with PyTorch
+## Notes
+common problem of data directory - not consistent; use:  
+data_folder = '~/data/FMNIST'   
+
 ### Chapter 04
 Running the notebooks in colab (as recommended) works fine - run it in a local python/jupyter environment - nope!    You’ll find imgaug version mis-match.
 
