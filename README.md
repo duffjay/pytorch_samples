@@ -3,6 +3,9 @@
 ## environment pytorch17
 
 ## Modern Computer Vision with PyTorch
+https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch  
+
+
 ## Notes
 common problem of data directory - not consistent; use:  
 data_folder = '~/data/FMNIST'   
