@@ -10,6 +10,9 @@ https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch
 common problem of data directory - not consistent; use:  
 data_folder = '~/data/FMNIST'   
 
+### torch_snippets - general utilities
+see bok location 4554
+
 ### Chapter 04
 Running the notebooks in colab (as recommended) works fine - run it in a local python/jupyter environment - nope!    You’ll find imgaug version mis-match.
 
