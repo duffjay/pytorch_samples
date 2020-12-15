@@ -24,3 +24,8 @@ local python with imgaug 0.4:
 plt.imshow(aug.augment_image(tr_images[0].numpy()), cmap='gray')
 
 the difference - convert the torch tensor to numpy – which makes sense.  
+
+## Data Considerations
+
+annotation tool used in the book for YOLO:  
+https://github.com/drainingsun/ybat
